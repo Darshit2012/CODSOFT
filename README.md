@@ -34,7 +34,7 @@ I’m excited to present my journey through the CODSOFT Data Science Internship,
   - Source: Kaggle – Credit Card Fraud Dataset
   - Objective: Create a classification model to detect fraudulent transactions. The project focuses on data preprocessing, handling class imbalance, and using models like logistic regression or random forests to improve fraud detection. Evaluation metrics like precision, recall, and F1-score help in measuring model effectiveness.
 
-  🔗 GitHub Link: [Click here](https://github.com/Darshit2012/CODSOFT/tree/main/Task%204)
+  🔗 GitHub Link: [Click here](https://github.com/Darshit2012/CODSOFT/tree/main/Task%205)
 ## CONCLUSION:
 Participating in the CODSOFT Data Science Internship has been a transformative experience. It gave me the opportunity to work on practical projects, deepen my understanding of data science, and improve my problem-solving abilities. I’m thankful for the guidance and exposure provided throughout the internship and am excited to carry these skills forward into future academic and professional challenges.
 
